@@ -1,5 +1,3 @@
-# Table of Contents
-[toc]
 # Renaming Files and Extentions
 
 ## Add perfix to file names
