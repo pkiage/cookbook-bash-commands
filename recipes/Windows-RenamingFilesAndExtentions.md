@@ -1,8 +1,6 @@
-# Table of Contents
-[toc]
 # Renaming Files and Extentions
 
-## Add perfix to file names
+## Add prefix to file names
 ### Generic: Command Prompt
 ```bash
 for %i in (*.*) do ren "%i" "<prefix>%i"
@@ -13,7 +11,7 @@ for %i in (*.*) do ren "%i" "<prefix>%i"
 for %i in (*.*) do ren "%i" "Review-%i"
 ```
 
-## Remove perfix from file names
+## Remove prefix from file names
 
 ### Example: Remove "Review-" from mp4 files
 ```bash
